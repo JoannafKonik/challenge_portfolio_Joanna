@@ -18,16 +18,16 @@ Dobrego dnia, Joanna
   * *drukowanie* - działa w sposób intuicyjny
   * *pobieranie pliku .csv* - działa w sposób intuicyjny
 * możliwość sortowania wybranych kolumn w tabeli "Gracze" - ???
-* możliwość dodania gracza
+* możliwość dodania gracza - działa w sposób intuicyjny; dodałabym tą funkcjonalność również w widoku "Gracze" (teraz dostępna tylko ze strony głównej)
 * możliwość dodania meczu
 * możliwość edycji meczu
 * możliwość dodania raportu - z poziomu widoku "Mecze" funkcjonalność działa intuicyjnie; z poziomu widoku "Raporty" po kliknięciu "Dodaj raport" użytkownik zostaje przekierowany do widoku "Mecze" bez komunikatu dlaczego tak się dzieje -> dodałabym komunikat np. "Wybierz mecz, aby dodać raport"; po dodaniu raportu użytkownik ma możliwość jego edytowania, bez możliwości obejrzenia -> dodałabym funkcjonalność "Pokaż" i wyświetliła raport w formie przyjaznej dla użytkownika
 * możliwość edycji raportu
-* możliwość zapisania danych statystycznych meczu - nazwa tej funkcjonalności (*Rozpocznij mecz*) jest nieczytelna dla użytkownika; poruszanie się po tym widoku nie jest intuicyjne; brak jest komunikatu, w którym miejscu dane zostają zapisane
-* możliwość zmiany języka - działa w sposób intuicyjny niemniej wybierając język polski, wszystkie komunikaty/polecenia wyświetlane na stronie powinny być w języku polskim dotyczy m.in. "Submit" "Clear" "Save" "Required" "Next page" etc.
+* możliwość zapisania danych statystycznych meczu - nazwa tej funkcjonalności (*Rozpocznij mecz*) jest nieczytelna dla użytkownika; poruszanie się po tym widoku nie jest intuicyjne; brak jest komunikatu, w którym miejscu dane zostają zapisane;
+* możliwość zmiany języka - działa w sposób intuicyjny niemniej wybierając język polski, wszystkie komunikaty/polecenia powinny być wyświetlane użytkownikowi w języku polskim co obecnie się nie dzieje dotyczy m.in. "Submit" "Clear" "Save" "Required" "Next page" etc.
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane graczy prezentowane są jedynie w formie "do edycji" co powoduje, że nie są one czytelne.
+Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane pszczególnych graczy prezentowane są jedynie w formie "do edycji" co powoduje, że nie są one czytelne. Otwarcie widoku "Edytuj raport" powoduje zmianę rozdzielczości strony.
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu)
-W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które są mało intuicyjne. 
+W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają trudność użytkownikowi. Brak jest możliwości szybkiego przejścia w tabeli graczy do konkretnej strony lub na koniec tabeli.
 ### Co błędem jest / lub co może nim być?
   * 
