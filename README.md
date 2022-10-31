@@ -36,7 +36,12 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
     * pole *"Telefon"* przyjmuje inne znaki niż cyfry
     * pole *"Waga"* przyjmuje wartości ujemne
     * pole *"Wzrost"* przyjmuje wartości ujemne
+    * pole *"Data urodzenia"* przyjmuje datę przyszłą
+    * pole *"Data urodzenia"* umożliwia wpisanie 6-cio cyfrowej wartości w polu rok, ale aplikacja takiej wartości nie zapisze 
     * pole *"Języki"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
     * pola *"Łączy nas piłka"* *"90 minut"* *"Profil facebook"* *"Link do Youtuba"* przyjmują dowolne wartości
-    * pole *"Nazwisko"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
+  * widok "Dodaj mecz":
+    * pole *"Czas gry"* przyjmuje wartości ujemne
+    * pole *"Data"* przyjmuje datę przyszłą
+    * pole *"Zdobyte gole"* *"Stracone gole"* przyjmują nieograniczoną liczbę znaków
   * do aplikacji można dodać dwóch graczy posiadających te same dane
