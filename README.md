@@ -9,11 +9,8 @@ Cześć! Biorę udział w projekcie Dare IT Challenge "Zostań Testerem Manualny
  Dobrego dnia, Joanna
 ## Subtask 4
 * Na czym polega ta aplikacja? Do czego służy? 2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
-* Funkcjonalności związane z zarządzaniem dostępem:
-  * logowanie
-  * wylogowanie
-  * zmiana języka
-  * przypomnienie hasła
+* Funkcjonalności aplikacji: 
+  * związane z zarządzaniem dostępem: *logowanie, wylogowanie, przypomnienie hasła, zmiana języka* działają w sposób intuicyjny
 * Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 * Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 * Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
