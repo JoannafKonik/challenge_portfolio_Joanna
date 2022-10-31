@@ -10,13 +10,13 @@ Dobrego dnia, Joanna
 ## Subtask 4
 ### Na czym polega ta aplikacja? Do czego służy? 2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 ### Funkcjonalności aplikacji: 
-* związane z zarządzaniem dostępem: *logowanie, wylogowanie, przypomnienie hasła* działają w sposób intuicyjny; panel logowania jest prosty i czytelny
 * dostępne z poziomu widoku "Gracze":
   * *wyszukiwanie* - działa w sposób intuicyjny
   * *filtrowanie* - działa w sposób intuicyjny, ale dodałabym w tym widoku dodatkowy przycisk "Szukaj" lub dała użytkownikowi możliwość przejścia do widoku z wyfiltrowanymi danymi po kliknięciu "Enter"
   * *wybór kolumn, które mają być prezentowane w tabeli "Gracze"* - działa w sposób intuicyjny
   * *drukowanie* - działa w sposób intuicyjny
   * *pobieranie pliku .csv* - działa w sposób intuicyjny
+* zarządzanie dostępem: *logowanie, wylogowanie, przypomnienie hasła* działają w sposób intuicyjny; panel logowania jest prosty i czytelny
 * możliwość sortowania wybranych kolumn w tabeli "Gracze" - ???
 * możliwość dodania gracza - działa w sposób intuicyjny; dodałabym tą funkcjonalność również w widoku "Gracze" (teraz dostępna tylko ze strony głównej)
 * możliwość dodania meczu
@@ -28,6 +28,15 @@ Dobrego dnia, Joanna
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane pszczególnych graczy prezentowane są jedynie w formie "do edycji" co powoduje, że nie są one czytelne. Otwarcie widoku "Edytuj raport" powoduje zmianę rozdzielczości strony.
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu)
-W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają trudność użytkownikowi. Brak jest możliwości szybkiego przejścia w tabeli graczy do konkretnej strony lub na koniec tabeli.
+W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają trudność użytkownikowi. Brak jest możliwości szybkiego przejścia w tabeli graczy do konkretnej strony lub na koniec tabeli. Wypełnianie pół w formularzach też bywa nieintuicyjne jak na przykład w widoku "Dodawanie meczu" pola  Web MAtch lub General
 ### Co błędem jest / lub co może nim być?
-  * 
+  * widok "Dodaj gracza":
+    * pole *"Imię"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
+    * pole *"Nazwisko"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
+    * pole *"Telefon"* przyjmuje inne znaki niż cyfry
+    * pole *"Waga"* przyjmuje wartości ujemne
+    * pole *"Wzrost"* przyjmuje wartości ujemne
+    * pole *"Języki"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
+    * pola *"Łączy nas piłka"* *"90 minut"* *"Profil facebook"* *"Link do Youtuba"* przyjmują dowolne wartości
+    * pole *"Nazwisko"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
+  * do aplikacji można dodać dwóch graczy posiadających te same dane
