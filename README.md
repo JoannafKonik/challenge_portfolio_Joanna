@@ -10,7 +10,7 @@ Dobrego dnia, Joanna
 ## Subtask 4
 ### Na czym polega ta aplikacja? Do czego służy? 2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 ### Funkcjonalności aplikacji: 
-* związane z zarządzaniem dostępem: *logowanie, wylogowanie, przypomnienie hasła, zmiana języka* działają w sposób intuicyjny; panel logowania jest prosty i czytelny
+* związane z zarządzaniem dostępem: *logowanie, wylogowanie, przypomnienie hasła* działają w sposób intuicyjny; panel logowania jest prosty i czytelny
 * dostępne z poziomu widoku "Gracze":
   * *wyszukiwanie* - działa w sposób intuicyjny
   * *filtrowanie* - działa w sposób intuicyjny, ale dodałabym w tym widoku dodatkowy przycisk "Szukaj" lub dała użytkownikowi możliwość przejścia do widoku z wyfiltrowanymi danymi po kliknięciu "Enter"
@@ -23,9 +23,10 @@ Dobrego dnia, Joanna
 * możliwość edycji meczu
 * możliwość dodania raportu - z poziomu widoku "Mecze" funkcjonalność działa intuicyjnie; z poziomu widoku "Raporty" po kliknięciu "Dodaj raport" użytkownik zostaje przekierowany do widoku "Mecze" bez komunikatu dlaczego tak się dzieje -> dodałabym komunikat np. "Wybierz mecz, aby dodać raport"; po dodaniu raportu użytkownik ma możliwość jego edytowania, bez możliwości obejrzenia -> dodałabym funkcjonalność "Pokaż" i wyświetliła raport w formie przyjaznej dla użytkownika
 * możliwość edycji raportu
-* możliwość zapisania danych statystycznych meczu - nazwa tej funkcjonalności (*Rozpocznij mecz*) jest nieczytelna dla użytkownika; poruszanie się po tym widoku nie jest intuicyjne
+* możliwość zapisania danych statystycznych meczu - nazwa tej funkcjonalności (*Rozpocznij mecz*) jest nieczytelna dla użytkownika; poruszanie się po tym widoku nie jest intuicyjne; brak jest komunikatu, w którym miejscu dane zostają zapisane
+* możliwość zmiany języka - działa w sposób intuicyjny niemniej wybierając język polski, wszystkie komunikaty/polecenia wyświetlane na stronie powinny być w języku polskim dotyczy m.in. "Submit" "Clear" "Save" "Required" "Next page" etc.
 ### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-Dane graczy prezentowane są jedynie w formie "do edycji" co powoduje, że nie są one czytelne.
+Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane graczy prezentowane są jedynie w formie "do edycji" co powoduje, że nie są one czytelne.
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu)
 W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które są mało intuicyjne. 
 ### Co błędem jest / lub co może nim być?
