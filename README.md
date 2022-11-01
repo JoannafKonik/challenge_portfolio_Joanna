@@ -26,10 +26,10 @@ Aplikacja służy do gromadzenia szczegółowych danych o graczach, zapisywania 
 * możliwość edycji raportu
 * możliwość zapisania danych statystycznych meczu - nazwa tej funkcjonalności (*Rozpocznij mecz*) jest nieczytelna dla użytkownika; poruszanie się po tym widoku nie jest intuicyjne; brak jest komunikatu, w którym miejscu dane zostają zapisane;
 * możliwość zmiany języka - działa w sposób intuicyjny niemniej wybierając język polski, wszystkie komunikaty/polecenia powinny być wyświetlane użytkownikowi w języku polskim co obecnie się nie dzieje dotyczy m.in. "Submit" "Clear" "Save" "Required" "Next page" etc.
-### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane pszczególnych graczy prezentowane są jedynie w formie "do edycji" co powoduje, że nie są one czytelne. Otwarcie widoku "Edytuj raport" powoduje zmianę rozdzielczości strony.
+### Interfejs aplikacji - moja ocena:
+Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane prezentowane są w formie tabel "do edycji" co jest formą mało przyjazną dla użytkownika. Brakuje elementów graficznych oraz opcji pozwalającej na Otwarcie widoku "Edytuj raport" powoduje zmianę rozdzielczości strony.
 ### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu)
-W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają trudność użytkownikowi. Brak jest możliwości szybkiego przejścia w tabeli graczy do konkretnej strony lub na koniec tabeli. Wypełnianie pół w formularzach też bywa nieintuicyjne jak na przykład w widoku "Dodawanie meczu" pola  Web MAtch lub General
+W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają użytkownikowi trudności w poruszaniu sie po aplikacji. Brak jest możliwości szybkiego przejścia w tabeli graczy do konkretnej strony lub na koniec tabeli. Wypełnianie pól w formularzach też bywa nieintuicyjne jak na przykład w widoku "Dodawanie meczu" pola  Web MAtch lub General
 ### Co błędem jest / lub co może nim być?
   * widok "Dodaj gracza":
     * pole *"Imię"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
