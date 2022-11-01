@@ -27,9 +27,9 @@ Aplikacja służy do gromadzenia szczegółowych danych o graczach, zapisywania 
 * możliwość zapisania danych statystycznych meczu - nazwa tej funkcjonalności (*Rozpocznij mecz*) jest nieczytelna dla użytkownika; poruszanie się po tym widoku nie jest intuicyjne; brak jest komunikatu, w którym miejscu dane zostają zapisane;
 * możliwość zmiany języka - działa w sposób intuicyjny niemniej wybierając język polski, wszystkie komunikaty/polecenia powinny być wyświetlane użytkownikowi w języku polskim co obecnie się nie dzieje dotyczy m.in. "Submit" "Clear" "Save" "Required" "Next page" etc.
 ### Interfejs aplikacji - moja ocena:
-Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Dane prezentowane są w formie tabel "do edycji" co jest formą mało przyjazną użytkownikowi. Brakuje elementów graficznych oraz opcji pozwalającej na przykład na porównanie dwóch lub większej ilości graczy. W sytuacji kiedy w polu tekstowym wprowadzona jest duża ilość znaków podgląd strona nie skaluje się do wielkości ekranu i powoduje rozciągnięcie strony i konieczność przesuwania ekranu suwakiem.
+Mimo, iż wiele funkcjonalności działa w aplikacji intuicyjnie to interfejs jest mało czytelny. Informacje o graczach, meczach i raportach prezentowane są w formie tabel "do edycji" co jest formą mało przyjazną użytkownikowi. Brakuje elementów graficznych oraz opcji pozwalającej na przykład na porównanie dwóch lub większej ilości graczy. W sytuacji kiedy w polu tekstowym wprowadzona jest duża ilość znaków strona nie skaluje się do wielkości ekranu co powoduje rozciągnięcie strony i konieczność przesuwania ekranu suwakiem.
 ### Czy aplikacja jest intuicyjna?
-W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają użytkownikowi trudności w poruszaniu sie po aplikacji. Brak jest możliwości szybkiego przejścia w tabeli graczy do konkretnej strony lub na koniec tabeli. Wypełnianie pól w formularzach też bywa nieintuicyjne jak na przykład w widoku "Dodawanie meczu" pola  Web Match lub General.
+W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkcjonalności, które sprawiają użytkownikowi trudności w poruszaniu się po niej. W tabeli "Gracze" brak jest możliwości szybkiego przejścia do konkretnej strony lub na koniec tabeli. Nieintuicyjne bywa też wypełnianie pól w formularzach. Podczas dodawania lub edytowania Gracza pojawia się komunikat "Nie udało się dodać / zaktualizować gracza" bez informacji, które pola zostały błędnie wypełnione.
 ### Co błędem jest / lub co może nim być?
   * widok "Dodaj gracza":
     * pole *"Imię"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
@@ -49,6 +49,6 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
   * do aplikacji można dodać dwóch graczy posiadających te same dane
   * sortowanie - funkcja sortowania działa, ale metoda sortowania jest nieprawidłowa (np. nierozpoznawanie małej i dużej litery, odwrotne sortowanie w kolumnie "Wiek")
   * pobieranie pliku .csv - brak funkcji "Pobierz wszystko"; pobranie pliku możliwe jest tylko w obrębie danego widoku (10 wierszy)
-  * pobieranie pliku .csv - próba odczytania pliku .csv wskazuje na to, że podczas eksportu nie przeniosły się poprawne wartości; dotyczy kolumn: Wiek, Mecze, Recenzja, Raporty
+  * pobieranie pliku .csv - próba odczytania pliku .csv wskazuje na to, że podczas eksportu nie przeniosły się poprawne wszystkie wartości; dotyczy kolumn: Wiek, Mecze, Recenzja, Raporty
   * brak funkcjonalności usuwania gracza, meczu, raportu
   * nie działa opcja *"Wróć do raportu"*, która wyświetlona jest w widoku "Niezapisany mecz" na stronie głównej aplikacji
