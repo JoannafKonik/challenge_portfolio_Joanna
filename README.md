@@ -8,7 +8,8 @@ Cześć! Biorę udział w projekcie Dare IT Challenge "Zostań Testerem Manualny
  
 Dobrego dnia, Joanna
 ## Subtask 4
-### Na czym polega ta aplikacja? Do czego służy? 2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
+### Scouts Panel
+Aplikacja służy do gromadzenia informacji o graczach, zapisywania informacji o meczach oraz do tworzenia raportów. Zawiera szereg funkcjonalności 
 ### Funkcjonalności aplikacji: 
 * dostępne z poziomu widoku "Gracze":
   * *wyszukiwanie* - działa w sposób intuicyjny
