@@ -18,7 +18,7 @@ Aplikacja służy do gromadzenia szczegółowych danych o graczach, zapisywania 
   * *drukowanie* - działa w sposób intuicyjny
   * *pobieranie pliku .csv* - działa w sposób intuicyjny
 * zarządzanie dostępem: *logowanie, wylogowanie, przypomnienie hasła* działają w sposób intuicyjny; panel logowania jest prosty i czytelny
-* możliwość sortowania wybranych kolumn w tabeli "Gracze" - ???
+* możliwość sortowania wybranych kolumn w tabeli "Gracze" - działa w sposób intuicyjny, ale zawiera błędy (szczegóły poniżej)
 * możliwość dodania gracza - działa w sposób intuicyjny; dodałabym tą funkcjonalność również w widoku "Gracze" (teraz dostępna tylko ze strony głównej)
 * możliwość dodania meczu
 * możliwość edycji meczu
@@ -46,3 +46,6 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
     * pole *"Data"* przyjmuje datę przyszłą
     * pole *"Zdobyte gole"* *"Stracone gole"* przyjmują nieograniczoną liczbę znaków
   * do aplikacji można dodać dwóch graczy posiadających te same dane
+  * sortowanie - funkcja sortowania działa, ale metoda sortowania jest nieprawidłowa (np. nierozpoznawanie małej i dużej litery, odwrotne sortowanie w kolumnie "Wiek")
+  * pobieranie pliku .csv - brak funkcji "Pobierz wszystko"; pobranie pliku możliwe jest tylko w obrębie danego widoku (10 wierszy)
+  * pobieranie pliku .csv - próba odczytania pliku .csv wskazuje na to, że podczas eksportu nie przeniosły się poprawne wartości; dotyczy kolumn: Wiek, Mecze, Recenzja, Raporty
