@@ -2,7 +2,7 @@
 ## Subtask 1
 9 punktów :blush:
 ## Subtask 3
-Cześć! Biorę udział w projekcie Dare IT Challenge "Zostań Testerem Manualnym" bo daje mi on możliwość usystematyzowania i poszerzenia wiedzy w temacie testowania. Cenię sobie, że projekt w dużym stopniu opiera się na pracy własnej. To bardzo rozwijające i zarazem ciekawe doświadczenie.
+Cześć! Biorę udział w projekcie Dare IT Challenge "Zostań Testerem Manualnym" bo daje mi on możliwość usystematyzowania i poszerzenia wiedzy związanej z przeprowadzaniem testów oprogramowania. Cenię sobie, że projekt w dużym stopniu opiera się na pracy własnej. To bardzo rozwijające i zarazem ciekawe doświadczenie.
  
  W związku z tym, że kilka miesięcy temu podjęłam decyzję o zmianie branży i obecnie aktywnie poszukuję pracy jako tester manualny liczę, że stworzone podczas Challenge'u porfolio i zdobyta wiedza przyśpieszą ten proces. Ostatni, ale nie mniej ważny jest fakt, że program Dare IT wspiera kobiety w przebranżowieniu się. Osobiście to dla mnie jedna z ważniejszych wartości :rocket:
  
@@ -38,15 +38,17 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
     * pole *"Waga"* przyjmuje wartości ujemne
     * pole *"Wzrost"* przyjmuje wartości ujemne
     * pole *"Data urodzenia"* przyjmuje datę przyszłą
-    * pole *"Data urodzenia"* umożliwia wpisanie 6-cio cyfrowej wartości w polu rok, ale aplikacja takiej wartości nie zapisze 
+    * pole *"Data urodzenia"* umożliwia wpisanie 6-cio cyfrowej wartości w polu rok, mimo, iż aplikacja takiej wartości nie zapisuje
     * pole *"Języki"* przyjmuje inne znaki (cyfry, znaki specjalne) niż litery
     * pola *"Łączy nas piłka"* *"90 minut"* *"Profil facebook"* *"Link do Youtuba"* przyjmują dowolne wartości
   * widok "Dodaj mecz":
     * pole *"Czas gry"* przyjmuje wartości ujemne
     * pole *"Data"* przyjmuje datę przyszłą
-    * pole *"Zdobyte gole"* *"Stracone gole"* przyjmują nieograniczoną liczbę znaków
+    * pole *"Zdobyte gole"* *"Stracone gole"* przyjmują nieograniczoną ilości znaków
+  * aplikacja zezwala na wprowadzenie nieograniczonej ilości znaków w większości pól w formatce *"Dodaj gracza"* i *"Dodaj mecz"* co powinno być uznane za błąd ponieważ prowadzi do tego, że tabele z danymi stają się mało czytelne
   * do aplikacji można dodać dwóch graczy posiadających te same dane
   * sortowanie - funkcja sortowania działa, ale metoda sortowania jest nieprawidłowa (np. nierozpoznawanie małej i dużej litery, odwrotne sortowanie w kolumnie "Wiek")
   * pobieranie pliku .csv - brak funkcji "Pobierz wszystko"; pobranie pliku możliwe jest tylko w obrębie danego widoku (10 wierszy)
   * pobieranie pliku .csv - próba odczytania pliku .csv wskazuje na to, że podczas eksportu nie przeniosły się poprawne wartości; dotyczy kolumn: Wiek, Mecze, Recenzja, Raporty
-  * brak funkcjonalności usuwania gracza, meczu i raportu
+  * brak funkcjonalności usuwania gracza, meczu, raportu
+  * nie działa opcja *"Wróć do raportu"*, która wyświetlona jest w widoku "Niezapisany mecz" na stronie głównej aplikacji
