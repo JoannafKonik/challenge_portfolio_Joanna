@@ -9,7 +9,7 @@ Cześć! Biorę udział w projekcie Dare IT Challenge "Zostań Testerem Manualny
 Dobrego dnia, Joanna
 ## Subtask 4
 ### Scouts Panel
-Aplikacja służy do gromadzenia informacji o graczach, zapisywania informacji o meczach oraz do tworzenia raportów. Zawiera szereg funkcjonalności 
+Aplikacja służy do gromadzenia szczegółowych danych o graczach, zapisywania informacji o meczach oraz tworzenia raportów.
 ### Funkcjonalności aplikacji: 
 * dostępne z poziomu widoku "Gracze":
   * *wyszukiwanie* - działa w sposób intuicyjny
