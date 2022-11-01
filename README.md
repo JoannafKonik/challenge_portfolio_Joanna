@@ -52,4 +52,4 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
   * pobieranie pliku .csv - próba odczytania pliku .csv wskazuje na to, że podczas eksportu nie przeniosły się poprawne wszystkie wartości; dotyczy kolumn: Wiek, Mecze, Recenzja, Raporty
   * brak funkcjonalności usuwania gracza, meczu, raportu
   * nie działa opcja *"Wróć do raportu"*, która wyświetlona jest w widoku "Niezapisany mecz" na stronie głównej aplikacji
-  konsola wyświetla błąd *"Params `start` and `limit` are deprecated."*
+  * konsola wyświetla błąd *"Params `start` and `limit` are deprecated."*
