@@ -15,8 +15,8 @@ Aplikacja służy do gromadzenia szczegółowych danych o graczach, zapisywania 
   * *wyszukiwanie* - działa w sposób intuicyjny
   * *filtrowanie* - działa w sposób intuicyjny, ale dodałabym w tym widoku dodatkowy przycisk "Szukaj" lub dała użytkownikowi możliwość przejścia do widoku z wyfiltrowanymi danymi po kliknięciu "Enter"
   * *wybór kolumn, które mają być prezentowane w tabeli "Gracze"* - działa w sposób intuicyjny
-  * *drukowanie* - działa w sposób intuicyjny
-  * *pobieranie pliku .csv* - działa w sposób intuicyjny
+  * *drukowanie* - proces wydruku nie jest przeprowadzony optymalnie; układ wydruku nie jest tożsamy z widokiem strony
+  * *pobieranie pliku .csv* - działa w sposób intuicyjny, ale zawiera błędy (szczegóły poniżej)
 * zarządzanie dostępem: *logowanie, wylogowanie, przypomnienie hasła* działają w sposób intuicyjny; panel logowania jest prosty i czytelny
 * możliwość sortowania wybranych kolumn w tabeli "Gracze" - działa w sposób intuicyjny, ale zawiera błędy (szczegóły poniżej)
 * możliwość dodania gracza - działa w sposób intuicyjny; dodałabym tą funkcjonalność również w widoku "Gracze" (teraz dostępna tylko ze strony głównej)
@@ -49,3 +49,4 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
   * sortowanie - funkcja sortowania działa, ale metoda sortowania jest nieprawidłowa (np. nierozpoznawanie małej i dużej litery, odwrotne sortowanie w kolumnie "Wiek")
   * pobieranie pliku .csv - brak funkcji "Pobierz wszystko"; pobranie pliku możliwe jest tylko w obrębie danego widoku (10 wierszy)
   * pobieranie pliku .csv - próba odczytania pliku .csv wskazuje na to, że podczas eksportu nie przeniosły się poprawne wartości; dotyczy kolumn: Wiek, Mecze, Recenzja, Raporty
+  * brak funkcjonalności usuwania gracza, meczu i raportu
