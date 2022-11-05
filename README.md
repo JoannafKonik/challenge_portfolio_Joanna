@@ -53,3 +53,5 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
   * brak funkcjonalności usuwania gracza, meczu, raportu
   * nie działa opcja *"Wróć do raportu"*, która wyświetlona jest w widoku "Niezapisany mecz" na stronie głównej aplikacji
   * konsola wyświetla błąd *"Params `start` and `limit` are deprecated."*
+
+# __Task 2_
