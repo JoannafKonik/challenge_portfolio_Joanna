@@ -54,4 +54,5 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
   * nie działa opcja *"Wróć do raportu"*, która wyświetlona jest w widoku "Niezapisany mecz" na stronie głównej aplikacji
   * konsola wyświetla błąd *"Params `start` and `limit` are deprecated."*
 
-# __Task 2_
+# Task 2
+## Subtask 1
