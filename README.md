@@ -62,4 +62,4 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 ## Subtask 3
 sdfghj
 ## Subtask 4
-[Test cases for PICK ● EAT ● UP APPLICATION](...)
+[Test cases for Pick.Eat.Up application](...)
