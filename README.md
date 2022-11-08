@@ -59,3 +59,7 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 [Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1bFXjCBqbozrzr0ysp7vLXdMli6vKuYhb/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 ## Subtask 2
 [Test cases for Scouts Panel based on own experience](...)
+## Subtask 3
+sdfghj
+## Subtask 4
+[Test cases for PICK ● EAT ● UP APPLICATION](...)
