@@ -61,7 +61,7 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 [Test cases for Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1-mz08C1FSFYynFSy5qS1TSrpg8z0eVtA/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 ## Subtask 3
 Po co piszemy test case’y?
-We write test cases to verify the functionality and functions of the tested software in an orderly manner. Test cases verify if the developed software fulfill functional requirements. They can be used by each development team member (propably with the same results :smile:).
+We write test cases to verify the functionality and functions of the tested software in an orderly manner. Test cases verify if the developed software fulfill functional requirements. All members of the development team can use them (propably with the same results 🙂).
 ## Subtask 4
 [Test cases for Pick.Eat.Up application](https://docs.google.com/spreadsheets/d/1k-rQZWu_euDSkjHRWvZbLn16pgFtxCoe/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
  
