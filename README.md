@@ -62,7 +62,7 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 ## Subtask 3
 Po co piszemy test case’y?
  
-We write test cases to verify the functionality and functions of the tested software in an orderly manner. Test cases verify if the developed software fulfill functional requirements. All members of the development team can use them (propably with the same results 🙂).
+We write test cases to verify the functionality and functions of the tested software in an orderly manner. Test cases verify if the developed software fulfill functional requirements. All members of the development team can use them (probably with the same results 🙂).
 ## Subtask 4
 [Test cases for Pick.Eat.Up application](https://docs.google.com/spreadsheets/d/1k-rQZWu_euDSkjHRWvZbLn16pgFtxCoe/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
  
