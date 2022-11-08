@@ -57,7 +57,6 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 # Task 2
 ## Subtask 1
 [Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
-[Test cases for Scouts Panel based on User Story](...)
 ## Subtask 2
 [Test cases for Scouts Panel based on own experience](...)
 ## Subtask 3
