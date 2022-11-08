@@ -60,7 +60,7 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 ## Subtask 2
 [Test cases for Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1-mz08C1FSFYynFSy5qS1TSrpg8z0eVtA/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 ## Subtask 3
-sdfghj
+Po co piszemy test case’y?
 ## Subtask 4
 [Test cases for Pick.Eat.Up application](https://docs.google.com/spreadsheets/d/1k-rQZWu_euDSkjHRWvZbLn16pgFtxCoe/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
  
