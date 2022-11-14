@@ -67,3 +67,9 @@ We write test cases to verify the functionality and functions of the tested soft
 [Test cases for Pick.Eat.Up application](https://docs.google.com/spreadsheets/d/1k-rQZWu_euDSkjHRWvZbLn16pgFtxCoe/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
  
 Unfortunately I couldn't make order and testing *"order case"* because packages wasn't available. I checked few location and the respons was the same. 
+ 
+# TASK 3
+## Subtask 1
+ 
+## Subtask 2
+[Tests] (https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing)
