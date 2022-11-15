@@ -56,9 +56,9 @@ W wielu miejscach aplikacja jest intuicyjna niemniej znajdują się w niej funkc
 
 # Task 2
 ## Subtask 1
-[Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
+[Test cases for polish version Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 ## Subtask 2
-[Test cases for Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1nn6H2g1wuZ40Idh5qz9mLMMYqW_QeTGk/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
+[Test cases for polish version Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1nn6H2g1wuZ40Idh5qz9mLMMYqW_QeTGk/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 ## Subtask 3
 Po co piszemy test case’y?
  
@@ -70,7 +70,7 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
  
 # TASK 3
 ## Subtask 1
- 
+[Bug report for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing)
 ## Subtask 2
-[Tests](https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing)
- 
+[Test results for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing)
+## Subtask 3
