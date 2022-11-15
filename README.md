@@ -74,3 +74,4 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
 ## Subtask 2
 [Test results for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing) :bookmark_tabs: :soccer:
 ## Subtask 3
+[Test report for polish version Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing)
