@@ -70,8 +70,8 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
  
 # TASK 3
 ## Subtask 1
-[Bug report for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing) :bug: :soccer:
+[Bug report for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing) :bug:
 ## Subtask 2
-[Test results for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing) :bookmark_tabs: :soccer:
+[Test results for polish version Scouts Panel](https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing) :bookmark_tabs:
 ## Subtask 3
-[Test report for polish version Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing)
+[Test report for polish version Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing) :soccer:
