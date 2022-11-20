@@ -78,4 +78,4 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
 
 # TASK 4
 ## Subtask 2
-[Bug report for polish version FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing)
+[Bug report for polish version FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing) :pray:
