@@ -79,3 +79,9 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
 # TASK 4
 ## Subtask 2
 [Bug report for polish version FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing) :pray:
+## Subtask 3
+On many levels, the FOCUSLY APP is user friendly. Being able to use it as a guest is a very good solution. “Practice reminder” option is very useful and it is not pushing too much.
+ 
+FOCUSLY colors are muted and reflect the character of the APP. They are coherent with the content.
+ 
+In FOCUSLY APP there are no linking or redirecting to external pages which is a good practice because everything the user needs is inside the application.
