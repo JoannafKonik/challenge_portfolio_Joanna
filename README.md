@@ -83,7 +83,7 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
 ### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 The FOCUSLY APP is a collection of materials and audio files dedicated to the concept of mindfulness. FOCUSLY includes content which helps people consciously live and breath. 
  
-With this APP users can take challenges, define goals which they want working with e.g. sleep, stress, emotions, relationships, mental health and take part in courses e.g, mindfulness, meditation, breath. 
+With this APP users can take challenges, define goals which they want working with e.g. sleep, stress, emotions, relationships, mental health and take part in courses e.g. mindfulness, meditation, breath. 
  
 FOCUSLY makes possible saving favorite practices thanks to which the user has faster and easier access to them.
  
@@ -113,5 +113,5 @@ Contact form contains a short note “Our support will help you within seconds�
  
 “Changing password” form in APP and “Forgot password” functionality should be coherent but they are not. “Changing password” form in APP requires a minimum 6 characters password. Using “Forgot password” functionality, the user is obliged to use a minimum 8 characters password.
  
-“BREATHING EXERCISES” should contain short sounds during the exercise that would signal the change of “breathe in” “breathe out” “hold”. Currently it is necessary to look at the phone all the time during practice.
+“Breathing exercises” should contain short sounds during the exercise that would signal the change of “breathe in” “breathe out” “hold”. Currently it is necessary to look at the phone all the time during practice.
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
