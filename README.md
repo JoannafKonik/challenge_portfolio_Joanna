@@ -113,3 +113,5 @@ Contact form contains a short note “Our support will help you within seconds�
  
 “Changing password” form in APP and “Forgot password” functionality should be coherent but they are not. “Changing password” form in APP requires a minimum 6 characters password. Using “Forgot password” functionality, the user is obliged to use a minimum 8 characters password.
  
+“BREATHING EXERCISES” should contain short sounds during the exercise that would signal the change of “breathe in” “breathe out” “hold”. Currently it is necessary to look at the phone all the time during practice.
+### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
