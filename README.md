@@ -114,6 +114,8 @@ Contact form contains a short note “Our support will help you within seconds�
 “Changing password” form in APP and “Forgot password” functionality should be coherent but they are not. “Changing password” form in APP requires a minimum 6 characters password. Using “Forgot password” functionality, the user is obliged to use a minimum 8 characters password.
  
 “Breathing exercises” should contain short sounds during the exercise that would signal the change of “breathe in” “breathe out” “hold”. Currently it is necessary to look at the phone all the time during practice.
+ 
+An extra functionality in the FOCUSLY APP could be short videos with yoga sessions.
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 Testing a native app requires more attention to detail from the tester. Native applications have more restrictions on access to selected functionalities.
  
