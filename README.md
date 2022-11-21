@@ -117,6 +117,6 @@ Contact form contains a short note “Our support will help you within seconds�
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 Testing a native app requires more attention to detail from the tester. Native applications have more restrictions on access to selected functionalities.
  
-In testing a native app, it is important to pay attention if all available content is visible on the screen.
+In testing a native app, it is important to pay attention if all available content is visible on the screen. If not, swipe functionality has to work fast and reliably. It is crucial because in web app testing we have many tools like: touchpad, mouse and keyboard and in native app we have only our fingers.
  
 Describing steps in a bug report is more difficult in case of native app. Tester can use only screenshots or screen scans but not links. 
