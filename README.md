@@ -80,6 +80,21 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
 ## Subtask 2
 [Bug report for polish version FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing) :pray:
 ## Subtask 3
+### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+The FOCUSLY APP is a collection of materials and audio files dedicated to the concept of mindfulness. FOCUSLY includes content which helps people consciously live and breath. 
+ 
+With this APP users can take challenges, define goals which they want working with e.g. sleep, stress, emotions, relationships, mental health and take part in courses e.g, mindfulness, meditation, breath. 
+ 
+FOCUSLY makes possible saving favorite practices thanks to which the user has faster and easier access to them.
+ 
+Most content is available for a monthly or yearly subscription fee. Only some of them are available for free.
+### Kto ma być użytkownikiem końcowym aplikacji?
+FOCUSLY APP is dedicated for people of all ages. It also includes practices dedicated to children.
+ 
+APP can be useful for people which searching life balance and looking for information how live and eat healthy.
+ 
+FOCUSLY is dedicated for music lover too because it contents sounds of nature playlists.
+### Czy według Ciebie aplikacja jest user friendly?
 On many levels, the FOCUSLY APP is user friendly. Being able to use it as a guest is a very good solution. “Practice reminder” option is very useful and it is not pushing too much.
  
 FOCUSLY colors are muted and reflect the character of the APP. They are coherent with the content.
