@@ -101,3 +101,9 @@ FOCUSLY colors are muted and reflect the character of the APP. They are coherent
  
 In FOCUSLY APP there are no linking or redirecting to external pages which is a good practice because everything the user needs is inside the application.
 ### Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+Unfortunately, in many places navigating the FOCUSLY APP is not intuitive. 
+ 
+“Plus” button redirect user to homepage instead to e.g. “Your goal” form.
+ 
+After changing language to English APP loses part of resources. Some functionalities are not available or are available only in limited extent.
+Using APP as a guest, “Sign up” and “Log in” functionalities are available from Settings level which makes it difficult to access. “Log out” button is available only from Settings level too. All this functionalities should be placed to Home Page.
