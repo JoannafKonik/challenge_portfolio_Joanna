@@ -115,3 +115,6 @@ Contact form contains a short note “Our support will help you within seconds�
  
 “Breathing exercises” should contain short sounds during the exercise that would signal the change of “breathe in” “breathe out” “hold”. Currently it is necessary to look at the phone all the time during practice.
 ### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Testing a native app requires more attention to detail from the tester. Native applications have more restrictions on access to selected functionalities.
+ 
+Describing steps in a bug report is more difficult in case of native app. Tester can use only screenshots or screen scans but not links. 
