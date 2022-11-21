@@ -122,3 +122,5 @@ Testing a native app requires more attention to detail from the tester. Native a
 In testing a native app, it is important to pay attention if all available content is visible on the screen. If not, swipe functionality has to work fast and reliably. It is crucial because in web app testing we have many tools like: touchpad, mouse and keyboard and in native app we have only our fingers.
  
 Describing steps in a bug report is more difficult in case of native app. Tester can use only screenshots or screen scans but not links. 
+ 
+![meditation](https://user-images.githubusercontent.com/116754129/203097417-e6493f85-af57-43ef-bb3b-d25395e272c0.jpg)
