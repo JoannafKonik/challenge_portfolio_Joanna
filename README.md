@@ -91,9 +91,9 @@ Most content is available for a monthly or yearly subscription fee. Only some of
 ### Kto ma być użytkownikiem końcowym aplikacji?
 FOCUSLY APP is dedicated for people of all ages. It also includes practices dedicated to children.
  
-APP can be useful for people which searching life balance and looking for information how live and eat healthy.
+APP can be useful for people who are searching for life balance and looking for information on how to live and eat healthy.
  
-FOCUSLY is dedicated for music lover too because it contents sounds of nature playlists.
+FOCUSLY is dedicated for music lovers too because it contents sounds of nature playlists.
 ### Czy według Ciebie aplikacja jest user friendly?
 On many levels, the FOCUSLY APP is user friendly. Being able to use it as a guest is a very good solution. “Practice reminder” option is very useful and it is not pushing too much.
  
