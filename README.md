@@ -111,3 +111,5 @@ Using APP as a guest, “Sign up” and “Log in” functionalities are availab
  
 Contact form contains a short note “Our support will help you within seconds” which should be changed right away because this information is not true.
  
+“Changing password” form in APP and “Forgot password” functionality should be coherent but they are not. “Changing password” form in APP requires a minimum 6 characters password. Using “Forgot password” functionality, the user is obliged to use a minimum 8 characters password.
+ 
