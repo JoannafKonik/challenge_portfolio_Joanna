@@ -100,3 +100,4 @@ On many levels, the FOCUSLY APP is user friendly. Being able to use it as a gues
 FOCUSLY colors are muted and reflect the character of the APP. They are coherent with the content.
  
 In FOCUSLY APP there are no linking or redirecting to external pages which is a good practice because everything the user needs is inside the application.
+### Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
