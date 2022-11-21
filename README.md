@@ -108,3 +108,6 @@ Unfortunately, in many places navigating the FOCUSLY APP is not intuitive.
 After changing language to english APP loses part of its resources. Some functionalities are not available or are available only to a limited extent.
  
 Using APP as a guest, “Sign up” and “Log in” functionalities are available from Settings level which makes it difficult to access. “Log out” button is available only from Settings level too. All these functionalities should be placed on the homepage.
+ 
+Contact form contains a short note “Our support will help you within seconds” which should be changed right away because this information is not true.
+ 
