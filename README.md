@@ -180,3 +180,4 @@ SELECT * FROM `actors` WHERE name LIKE 'An%';
  
 SELECT * FROM `customers` WHERE email IS NULL;
  
+![null](https://user-images.githubusercontent.com/116754129/204322150-5c01442b-50a4-4e67-ba03-d4bab1a83edf.jpg)
