@@ -130,7 +130,22 @@ Wymień operatory/zapytania jakich się nauczyłaś
  
 SELECT :heavy_check_mark:
 
-SELECT DISTINCT :white_check_mark:
+SELECT DISTINCT :heavy_check_mark:
+
+WHERE :heavy_check_mark:
+
+ORDER BY :heavy_check_mark:
+
+LIKE :heavy_check_mark:
+
+IN :heavy_check_mark:
+
+BETWEEN :heavy_check_mark:
+
+AND, OR, NOT :heavy_check_mark:
+
+NULL VALUES :heavy_check_mark:
+
 ## Subtask 3
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
  
