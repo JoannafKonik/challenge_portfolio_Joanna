@@ -186,5 +186,6 @@ SELECT * FROM `customers` WHERE email IS NULL;
  
 SELECT * FROM `movies` WHERE price>'9' AND (movie_id BETWEEN '2' AND '8');
  
-
+![movie](https://user-images.githubusercontent.com/116754129/204324667-469bda85-d5fb-4dca-8b9b-7317080e14a5.jpg)
+ 
 SELECT * FROM `movies` WHERE price>'9' AND (movie_id>2 AND movie_id<8);
