@@ -181,3 +181,6 @@ SELECT * FROM `actors` WHERE name LIKE 'An%';
 SELECT * FROM `customers` WHERE email IS NULL;
  
 ![null](https://user-images.githubusercontent.com/116754129/204322150-5c01442b-50a4-4e67-ba03-d4bab1a83edf.jpg)
+
+**10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**
+ 
