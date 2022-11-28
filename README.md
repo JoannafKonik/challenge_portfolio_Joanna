@@ -175,3 +175,8 @@ SELECT * FROM `customers` WHERE customer_id IN (1,3,5);
 SELECT * FROM `actors` WHERE name LIKE 'An%';
  
 ![name_An](https://user-images.githubusercontent.com/116754129/204320688-9980817f-a7fd-4537-9e4f-52f45dd4417b.jpg)
+ 
+**9. Wyświetl dane klienta, który nie ma podanego adresu email.**
+ 
+SELECT * FROM `customers` WHERE email IS NULL;
+ 
