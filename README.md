@@ -134,12 +134,16 @@ SELECT * FROM `actors` ORDER BY surname ASC;
  
 ![surname_asc](https://user-images.githubusercontent.com/116754129/204270616-6fd345cd-4707-4151-a6ff-30dd8f0aabf9.jpg)
  
-2. Wyświetl film, który powstał w 2019 roku.
+**2. Wyświetl film, który powstał w 2019 roku.**
  
-**SELECT * FROM `movies` WHERE year_of_production='2019';**
+SELECT * FROM `movies` WHERE year_of_production='2019';
  
 ![movie_2019](https://user-images.githubusercontent.com/116754129/204273859-0fc800db-3abc-4ca7-bbc5-72ff74b02dbc.jpg)
  
-3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+**3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
  
-**SELECT * FROM `movies` WHERE year_of_production BETWEEN '1900' AND '1999';**
+SELECT * FROM `movies` WHERE year_of_production BETWEEN '1900' AND '1999';
+ 
+![movies_1900_1999](https://user-images.githubusercontent.com/116754129/204273937-02b4ebd9-e5eb-4d0e-bd7f-12a7cdf17fd1.jpg)
+ 
+**4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**
