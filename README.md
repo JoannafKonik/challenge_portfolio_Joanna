@@ -150,3 +150,4 @@ SELECT * FROM `movies` WHERE year_of_production BETWEEN '1900' AND '1999';
  
 SELECT title, price FROM `movies` WHERE price<'7';
  
+![price_7](https://user-images.githubusercontent.com/116754129/204276527-c43f3953-fac2-4c2b-8a9e-c4bb63d94012.jpg)
