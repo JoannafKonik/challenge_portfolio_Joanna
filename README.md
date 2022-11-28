@@ -138,7 +138,8 @@ wymień operatory/zapytania jakich się nauczyłe_aś
  
 **SELECT * FROM `movies` WHERE year_of_production='2019';**
  
-
+![movie_2019](https://user-images.githubusercontent.com/116754129/204273859-0fc800db-3abc-4ca7-bbc5-72ff74b02dbc.jpg)
+ 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
  
 **SELECT * FROM `movies` WHERE year_of_production BETWEEN '1900' AND '1999';**
