@@ -148,5 +148,5 @@ SELECT * FROM `movies` WHERE year_of_production BETWEEN '1900' AND '1999';
  
 **4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**
  
-SELECT title,price FROM `movies` WHERE price<'7';
+SELECT title, price FROM `movies` WHERE price<'7';
  
