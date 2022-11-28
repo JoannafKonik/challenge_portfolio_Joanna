@@ -162,3 +162,4 @@ SELECT * FROM `actors` WHERE actor_id>='4' AND actor_id<='7';
  
 SELECT * FROM `customers` WHERE customer_id='2' OR customer_id='4' OR customer_id='6';
  
+![customers_2_4_6](https://user-images.githubusercontent.com/116754129/204279023-f1e4fbb1-e81d-471e-ba3d-567de4f0167a.jpg)
