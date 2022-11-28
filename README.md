@@ -131,3 +131,4 @@ wymień operatory/zapytania jakich się nauczyłe_aś
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
  
 **SELECT * FROM `actors` ORDER BY surname ASC;**
+![surname_asc](https://user-images.githubusercontent.com/116754129/204270616-6fd345cd-4707-4151-a6ff-30dd8f0aabf9.jpg)
