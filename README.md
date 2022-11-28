@@ -132,23 +132,19 @@ Wymień operatory/zapytania jakich się nauczyłaś
 
 - [x] SELECT DISTINCT
 
-SELECT :heavy_check_mark:
+- [x] WHERE
 
-SELECT DISTINCT :heavy_check_mark:
+- [x] ORDER BY
 
-WHERE :heavy_check_mark:
+- [x] LIKE
 
-ORDER BY :heavy_check_mark:
+- [x] IN
 
-LIKE :heavy_check_mark:
+- [x] BETWEEN
 
-IN :heavy_check_mark:
+- [x] AND, OR, NOT
 
-BETWEEN :heavy_check_mark:
-
-AND, OR, NOT :heavy_check_mark:
-
-NULL VALUES :heavy_check_mark:
+- [x] NULL VALUES
 
 ## Subtask 3
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
