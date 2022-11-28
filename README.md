@@ -126,8 +126,10 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 ![meditation](https://user-images.githubusercontent.com/116754129/203097417-e6493f85-af57-43ef-bb3b-d25395e272c0.jpg)
 # TASK 5
 ## Subtask 1
-Wymień operatory/zapytania jakich się nauczyłe_aś
+Wymień operatory/zapytania jakich się nauczyłaś
+ 
 SELECT :heavy_check_mark:
+
 ## Subtask 3
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
  
