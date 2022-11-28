@@ -168,3 +168,4 @@ SELECT * FROM `customers` WHERE customer_id='2' OR customer_id='4' OR customer_i
  
 SELECT * FROM `customers` WHERE customer_id IN (1,3,5);
  
+![customers_1_3_5](https://user-images.githubusercontent.com/116754129/204280008-fed33def-da12-4b29-83f7-358a15a273eb.jpg)
