@@ -128,6 +128,10 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 ## Subtask 1
 Wymień operatory/zapytania jakich się nauczyłaś
  
+[x] SELECT
+
+[x] SELECT DISTINCT
+
 SELECT :heavy_check_mark:
 
 SELECT DISTINCT :heavy_check_mark:
