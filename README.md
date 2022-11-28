@@ -156,3 +156,7 @@ SELECT title, price FROM `movies` WHERE price<'7';
  
 SELECT * FROM `actors` WHERE actor_id>='4' AND actor_id<='7';
  
+![actors_4_7](https://user-images.githubusercontent.com/116754129/204278009-fe48977b-70a7-4880-8382-69dbc7986cdd.jpg)
+ 
+**6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
+ 
