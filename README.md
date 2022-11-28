@@ -129,4 +129,5 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 wymień operatory/zapytania jakich się nauczyłe_aś
 ## Subtask 3
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+ 
 **SELECT * FROM `actors` ORDER BY surname ASC;**
