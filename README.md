@@ -128,3 +128,4 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 ## Subtask 1
 wymień operatory/zapytania jakich się nauczyłe_aś
 ## Subtask 3
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
