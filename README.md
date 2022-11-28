@@ -124,3 +124,4 @@ In testing a native app, it is important to pay attention if all available conte
 Describing steps in a bug report is more difficult in case of native app. Tester can use only screenshots or screen scans but not links. 
  
 ![meditation](https://user-images.githubusercontent.com/116754129/203097417-e6493f85-af57-43ef-bb3b-d25395e272c0.jpg)
+# TASK 5
