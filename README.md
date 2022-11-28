@@ -146,6 +146,10 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 
 - [x] NULL VALUES
 
+- [x] INSERT INTO
+
+- [x] UPDATE
+
 ## Subtask 3
 ### SQL tasks
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
