@@ -133,3 +133,8 @@ wymień operatory/zapytania jakich się nauczyłe_aś
 **SELECT * FROM `actors` ORDER BY surname ASC;**
  
 ![surname_asc](https://user-images.githubusercontent.com/116754129/204270616-6fd345cd-4707-4151-a6ff-30dd8f0aabf9.jpg)
+ 
+2. Wyświetl film, który powstał w 2019 roku.
+ 
+**SELECT * FROM `movies` WHERE year_of_production='2019';**
+ 
