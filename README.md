@@ -173,3 +173,5 @@ SELECT * FROM `customers` WHERE customer_id IN (1,3,5);
 **8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
  
 SELECT * FROM `actors` WHERE name LIKE 'An%';
+ 
+![name_An](https://user-images.githubusercontent.com/116754129/204320688-9980817f-a7fd-4537-9e4f-52f45dd4417b.jpg)
