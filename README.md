@@ -138,3 +138,6 @@ wymień operatory/zapytania jakich się nauczyłe_aś
  
 **SELECT * FROM `movies` WHERE year_of_production='2019';**
  
+ 
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+ 
