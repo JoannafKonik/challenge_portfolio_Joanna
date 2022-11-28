@@ -129,7 +129,8 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 Wymień operatory/zapytania jakich się nauczyłaś
  
 SELECT :heavy_check_mark:
-SELECT DISTINCT :heavy_check_mark:
+
+SELECT DISTINCT :white_check_mark:
 ## Subtask 3
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
  
