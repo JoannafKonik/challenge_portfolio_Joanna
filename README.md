@@ -252,7 +252,7 @@ ALTER TABLE customers ADD pseudonym VARCHAR(255)
 
 SELECT DISTINCT movies.title FROM movies INNER JOIN sale ON movies.movie_id = sale.movie_id;
 
-
+![movies](https://user-images.githubusercontent.com/116754129/205716642-229627da-08ae-4523-8bcf-7a1a9c26159d.jpg)
 
 **17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**
 
