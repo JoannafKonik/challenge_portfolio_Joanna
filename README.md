@@ -232,7 +232,7 @@ UPDATE customers SET surname='Miler' WHERE customer_id='3'
 
 UPDATE customers SET email='pati@mail.com' WHERE customer_id='4'
 
-
+![email_null](https://user-images.githubusercontent.com/116754129/205656618-e0d11338-43c5-478e-93a2-9c6d0e8c10cb.jpg)
 
 **14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
 
