@@ -1,6 +1,8 @@
 # __Task 1__
 ## Subtask 1
 9 punktów :blush:
+## Subtask 2
+- [x] repozytorium w GitHub zostało utworzone
 ## Subtask 3
 Cześć! Biorę udział w projekcie Dare IT Challenge "Zostań Testerem Manualnym" bo daje mi on możliwość usystematyzowania i poszerzenia wiedzy związanej z przeprowadzaniem testów oprogramowania. Cenię sobie, że projekt w dużym stopniu opiera się na pracy własnej. To bardzo rozwijające i zarazem ciekawe doświadczenie.
  
@@ -77,6 +79,8 @@ Unfortunately I couldn't make order and testing *"order case"* because packages 
 [Test report for polish version Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing) :soccer:
 
 # TASK 4
+## Subtask 1
+- [x] bug report form was created
 ## Subtask 2
 [Bug report for polish version FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing) :pray:
 ## Subtask 3
@@ -149,7 +153,8 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 - [x] INSERT INTO
 
 - [x] UPDATE
-
+## Subtask 2
+- [x] xampp was installed
 ## Subtask 3
 ### SQL tasks
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
