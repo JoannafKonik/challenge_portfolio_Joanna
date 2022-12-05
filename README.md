@@ -224,7 +224,7 @@ SELECT * FROM `movies` WHERE price>'9' AND (movie_id BETWEEN '2' AND '8');
 
 UPDATE customers SET surname='Miler' WHERE customer_id='3'
 
-
+![surname_change](https://user-images.githubusercontent.com/116754129/205654815-05d59cbd-22d9-48a1-9c10-fd62fbf27419.jpg)
 
 **12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
 
