@@ -214,8 +214,14 @@ SELECT * FROM `movies` WHERE price>'9' AND (movie_id BETWEEN '2' AND '8');
  
 # TASK 5
 ## Subtask 1
+### SQL tasks - cont.
+**11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd**
+
+
 
 ## Subtask 2
+### Test
+10 points :first_quarter_moon:
 
 ## Subtask 3
-[QA_portfolio](https://github.com/JoannaKonik-Karczewska/QA-portfolio)
+### My brand new [QA_portfolio](https://github.com/JoannaKonik-Karczewska/QA-portfolio)
