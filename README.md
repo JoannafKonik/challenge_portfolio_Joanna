@@ -242,7 +242,7 @@ UPDATE customers SET email='pati@mail.com' WHERE customer_id='4'
 
 SELECT sale.*, customers.name, customers.surname, movies.title FROM ((sale INNER JOIN customers ON customers.customer_id = sale.customer_id) INNER JOIN movies ON sale.movie_id = movies.movie_id);
 
-
+![sale_customer_movie](https://user-images.githubusercontent.com/116754129/205708720-0eefc0d9-2195-44f6-b1d5-9040f9d6987d.jpg)
 
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
 
