@@ -230,7 +230,7 @@ UPDATE customers SET surname='Miler' WHERE customer_id='3'
 
 SELECT customers.name, customers.email FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id WHERE sale.movie_id='4';
 
-
+![movie id_4](https://user-images.githubusercontent.com/116754129/205691137-52c0105f-0013-4336-b36b-7a39aab7fcd7.jpg)
 
 **13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**
 
