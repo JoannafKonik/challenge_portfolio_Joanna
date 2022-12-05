@@ -246,3 +246,4 @@ SELECT * FROM `movies` WHERE price>'9' AND (movie_id BETWEEN '2' AND '8');
 
 ## Subtask 3
 ### My brand new [QA_portfolio](https://github.com/JoannaKonik-Karczewska/QA-portfolio)
+ 
