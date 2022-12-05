@@ -258,7 +258,7 @@ SELECT DISTINCT movies.title FROM movies INNER JOIN sale ON movies.movie_id = sa
 
 SELECT name FROM actors UNION ALL SELECT name FROM customers ORDER BY name ASC;
 
-
+![name_actors_customers](https://user-images.githubusercontent.com/116754129/205718196-493cfe76-3083-4e94-aae9-c91b5ad88163.jpg)
 
 **18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**
 
