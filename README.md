@@ -222,6 +222,10 @@ SELECT * FROM `movies` WHERE price>'9' AND (movie_id BETWEEN '2' AND '8');
 ### SQL tasks - cont.
 **11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd**
 
+UPDATE customers SET surname='Miler' WHERE customer_id='3'
+
+
+
 **12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
 
 **13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**
