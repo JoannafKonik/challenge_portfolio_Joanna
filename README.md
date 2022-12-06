@@ -153,6 +153,8 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 - [x] INSERT INTO
 
 - [x] UPDATE
+
+- [x] JOIN
 ## Subtask 2
 - [x] xampp was installed
 ## Subtask 3
