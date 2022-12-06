@@ -274,6 +274,8 @@ SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM ((actors 
 
 **20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
 
+INSERT INTO `customers`(`customer_id`, `name`, `surname`, `email`, `pseudonym`) VALUES ('7','Honia','Stuczka-Kucharska','honia@mail.com','Hoa');
+
 ## Subtask 2
 ### Test
 10 points :first_quarter_moon:
