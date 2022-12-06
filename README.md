@@ -158,7 +158,7 @@ Describing steps in a bug report is more difficult in case of native app. Tester
 
 - [x] ALTER TABLE
 
--[x] UNION / UNION ALL
+- [x] UNION / UNION ALL
 ## Subtask 2
 - [x] xampp was installed
 ## Subtask 3
