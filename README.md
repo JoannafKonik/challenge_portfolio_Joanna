@@ -253,6 +253,7 @@ SELECT sale.*, customers.name, customers.surname, movies.title FROM ((sale INNER
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
 
 ALTER TABLE customers ADD pseudonym VARCHAR(255)
+UPDATE customers SET pseudonym='Extr3' WHERE (SELECT CONCAT (LEFT(name,2), RIGHT(surname,1)) AS Extr3);
 
 **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
 
