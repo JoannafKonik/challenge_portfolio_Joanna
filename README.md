@@ -282,6 +282,7 @@ SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM ((actors 
 
 INSERT INTO `customers`(`customer_id`, `name`, `surname`, `email`, `pseudonym`) VALUES ('7','Honia','Stuczka-Kucharska','honia@mail.com','Hoa');
 
+![new_customer](https://user-images.githubusercontent.com/116754129/205874464-6f7c2cf3-7c0e-48d6-86ce-b6714434028f.jpg)
 ## Subtask 2
 ### Test
 10 points :first_quarter_moon:
