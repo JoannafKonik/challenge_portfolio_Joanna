@@ -270,7 +270,7 @@ UPDATE movies SET price = price + 2.5 WHERE year_of_production>2000
 
 SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM ((actors INNER JOIN cast ON actors.actor_id = cast.actor_id) INNER JOIN movies ON cast.movie_id = movies.movie_id) WHERE actors.actor_id=4;
 
-
+![actor_4](https://user-images.githubusercontent.com/116754129/205871324-030584b0-e44d-4ca7-8c23-6517bde99d37.jpg)
 
 **20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
 
