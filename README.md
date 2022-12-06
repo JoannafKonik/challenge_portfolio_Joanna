@@ -262,6 +262,8 @@ SELECT name FROM actors UNION ALL SELECT name FROM customers ORDER BY name ASC;
 
 **18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**
 
+UPDATE movies SET price = price + 2.5 WHERE year_of_production>2000
+
 **19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
 
 **20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
