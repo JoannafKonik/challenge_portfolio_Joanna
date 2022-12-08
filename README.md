@@ -254,7 +254,9 @@ SELECT sale.*, customers.name, customers.surname, movies.title FROM ((sale INNER
 
 ALTER TABLE customers ADD pseudonym VARCHAR(255)
 
-![pseudonym](https://user-images.githubusercontent.com/116754129/205971487-91afb9aa-38b4-4c5e-bf19-9bfcfcc622d4.jpg)
+UPDATE customers SET pseudonym=CONCAT(LEFT(name,2),RIGHT(surname,1))
+
+
 
 UPDATE customers SET pseudonym='Extr3' WHERE (SELECT CONCAT (LEFT(name,2), RIGHT(surname,1)) AS Extr3);
 
