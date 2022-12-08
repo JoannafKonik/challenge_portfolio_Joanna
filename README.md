@@ -256,7 +256,7 @@ ALTER TABLE customers ADD pseudonym VARCHAR(255)
 
 UPDATE customers SET pseudonym=CONCAT(LEFT(name,2),RIGHT(surname,1))
 
-
+![pseudonym](https://user-images.githubusercontent.com/116754129/206490055-bd8b01c6-337e-4ccc-a9ef-1f444184b3de.jpg)
 
 UPDATE customers SET pseudonym='Extr3' WHERE (SELECT CONCAT (LEFT(name,2), RIGHT(surname,1)) AS Extr3);
 
