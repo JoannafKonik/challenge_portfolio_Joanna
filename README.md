@@ -292,7 +292,3 @@ INSERT INTO `customers`(`customer_id`, `name`, `surname`, `email`, `pseudonym`) 
 ## Subtask 2
 ### Test
 10 points :first_quarter_moon:
-
-## Subtask 3
-### My brand new [QA_portfolio](https://github.com/JoannaKonik-Karczewska/QA-portfolio)
- 
